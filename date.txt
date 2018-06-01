@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Esempi con i timers</title>
+</head>
+<body>
+<p>TUTTE LE DATE DELLA FESTA</p>
+<table>
+    <tr><td>Date di Giugno</td><td>Date di Luglio/td></tr>
+    <tr><td>Dato 4-5</td><td>Dato 4-7</td></tr>
+    <tr><td>Dato 10-13</td><td>Dato 12-16</td></tr>
+    <tr><td>Dato 25-27</td><td>Dato 20-22</td></tr>
+</table>
+</body>
+</html>
